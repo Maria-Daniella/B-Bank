@@ -165,8 +165,6 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background-color: white;
-    background-blend-mode: darken;
     height: 100vh;
     color: #fff;
     min-height: 500px;
