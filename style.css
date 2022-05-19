@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: linear-gradient(to left, #ffffff , #ad152f)  no-repeat center;
+    background-color: white;
     background-blend-mode: darken;
     height: 100vh;
     color: #fff;
